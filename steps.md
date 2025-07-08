@@ -1,7 +1,3 @@
-====================================================================
-**_ Building an Ecommerce Website with Vanilla JavaScript _**
-====================================================================
-
 **_ Folder structure _**
 
 my-vanilla-js-project/
@@ -31,8 +27,6 @@ my-vanilla-js-project/
 ├── styles.css
 ├── vite.config.js
 └── package.json
-
-## Step 1: Don't Forget To LIKE SHARE & SUBSCRIBE TO THAPA TECHNCIAL YOUTUBE CHANNEL 👉 https://www.youtube.com/thapatechnical
 
 ====================================================================
 **_ Steps to Create a Function for Displaying Product Containers _**
